@@ -1,5 +1,5 @@
 # Hi 👋 I'm Sergei
----
+
 - 🌎 Currently residing in Russia, Saratov
 - 💻 I'm mostly a frontend developer, but sometimes my hands go in the wrong direction 
 - ⭐️ I love indiehacking and pet-projects!
