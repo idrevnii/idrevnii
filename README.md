@@ -9,4 +9,5 @@ Frontend developer passionate about Indie Hacking, currently diving deep into AI
 
 ### 🛠 Tech Stack
 **Frontend:** React, Next.js, Astro, TypeScript, Tailwind, SCSS, Redux, Zustand, Webpack, Vite
+
 **AI / Backend:** Node.js, Vercel AI SDK, OpenAI API, Google GenAI, Mastra, VoltAgent
