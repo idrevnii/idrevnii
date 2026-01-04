@@ -1,13 +1,12 @@
 # Hi 👋 I'm Sergei
 
-- 🌎 Currently residing in Moscow, Saratov
-- 💻 I'm mostly a frontend developer, but now I am looking into switch to AI sphere
-- ⭐️ I love indiehacking and pet-projects!
-- 🤩 I would love to participate in hackathons or someone else's projects if it's interesting enough
-- ✍️ You can text me in telegram @drevnii_dev
+Frontend developer passionate about Indie Hacking, currently diving deep into AI/ML.
 
----
-<!---
-idrevnii/idrevnii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌎 **Location:** Moscow / Russia
+- 🔭 **Current Focus:** Transitioning from Frontend (React/TS) to AI Engineering (TS, Vercel AI SDK, Agents)
+- 🤝 **Collaboration:** Open to hackathons and cool pet projects
+- 📫 **Contact:** Drop me a line on Telegram [@drevnii_dev](https://t.me/drevnii_dev)
+
+### 🛠 Tech Stack
+**Frontend:** React, Next.js, Astro, TypeScript, Tailwind, SCSS, Redux, Zustand, Webpack, Vite
+**AI / Backend:** Node.js, Vercel AI SDK, OpenAI API, Google GenAI, Mastra, VoltAgent
